@@ -29,8 +29,8 @@ To run the Filmpire application, follow these steps:
 
 1. Clone this repository
     ```bash
-    git clone https://github.com/brishy/filmpire-brishy.git
-    cd filmpire-brishy
+    git clone https://github.com/brishy/filmpire_brishy.git
+    cd filmpire_brishy
     ```
 
 2. Install dependencies
